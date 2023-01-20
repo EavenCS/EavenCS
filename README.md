@@ -1,8 +1,7 @@
 # Hi there!👋
 
 ## About Me🤵🏼
-I successfully completed my secondary school leaving certificate II in 2020 at the age of seventeen, started my training as an application developer in the specialist area of Microsoft Dynamics in the same year on 01.08.2020.
+In the year 2020, at the tender age of seventeen, I accomplished the feat of successfully obtaining my secondary school leaving certificate II. Following this achievement, I embarked on a new journey as an application developer in the specialized field of Microsoft Dynamics, beginning on the 1st of August, 2020.
 
-My focus in the training and future work will initially be the programming of the ERP solution Microsoft Dynamics 365.
+As I delve deeper into my training and eventual career, my primary focus will be on programming for the ERP solution, Microsoft Dynamics 365. Additionally, I am an avid learner, and in my free time, I am teaching myself the intricacies of the cross-platform framework, Flutter, as a hobby.
 
-As a hobby, I am teaching myself the cross-platform framework Flutter.
