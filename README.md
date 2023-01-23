@@ -4,3 +4,5 @@ In the year 2020, at the tender age of seventeen, I accomplished the feat of suc
 
 As I delve deeper into my training and eventual career, my primary focus will be on programming for the ERP solution, Microsoft Dynamics 365. Additionally, I am an avid learner, and in my free time, I am teaching myself the intricacies of the cross-platform framework, Flutter, as a hobby.
 
+Not much will be uploaded to my Github profile for now because I'm not allowed to publish the source code I write at work.
+
