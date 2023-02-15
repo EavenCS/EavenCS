@@ -1,15 +1,21 @@
-# About Me🤵🏼
+<h1 align="center">Hi 👋, I'm Eaven</h1>
+<h3 align="center">In the year 2020, at the tender age of seventeen, I accomplished the feat of successfully obtaining my secondary school leaving certificate II. Following this achievement, I embarked on a new journey as an application developer in the specialized field of Microsoft Dynamics, beginning on the 1st of August, 2020. As I delve deeper into my training and eventual career, my primary focus will be on programming for the ERP solution, Microsoft Dynamics 365. Additionally, I am an avid learner, and in my free time, I am teaching myself the intricacies of the cross-platform framework, Flutter, as a hobby. Not much will be uploaded to my Github profile for now because I'm not allowed to publish the source code I write at work.</h3>
 
-In the year 2020, at the tender age of seventeen, I accomplished the feat of successfully obtaining my secondary school leaving certificate II. Following this achievement, I embarked on a new journey as an application developer in the specialized field of Microsoft Dynamics, beginning on the 1st of August, 2020.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-As I delve deeper into my training and eventual career, my primary focus will be on programming for the ERP solution, Microsoft Dynamics 365. Additionally, I am an avid learner, and in my free time, I am teaching myself the intricacies of the cross-platform framework, Flutter, as a hobby.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eaven/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eaven/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/eaven.schlz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eaven.schlz/" height="30" width="40" /></a>
+<a href="https://medium.com/@schmalze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@schmalze" height="30" width="40" /></a>
+</p>
 
-Not much will be uploaded to my Github profile for now because I'm not allowed to publish the source code I write at work.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-## 👩🏼‍💻 Languages and Tools:
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eavencs&show_icons=true&locale=en&layout=compact" alt="eavencs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eavencs&show_icons=true&locale=en" alt="eavencs" /></p>
+
