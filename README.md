@@ -1,4 +1,8 @@
 # Hi 👋, I'm Eaven
+Hello, I am Eaven. I am interested in SaaS products, fontend and backend.  
+
+Professionally I work as a Microsoft Dynamics Finance and Operations Software Developer.
+ 
 # 👨‍💻 Languages and Tools
 
 In the year 2020, I successfully completed my secondary education and began my apprenticeship as an application developer on August 1, 2020. 😊🎓
