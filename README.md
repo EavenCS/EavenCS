@@ -6,4 +6,4 @@ I look forward to expanding my skills and knowledge in this field and building m
 
 # Certificates
 [C#](https://verify.w3schools.com/5YU8LG6VE) <br>
-[SQL](https://verify.w3schools.com/1NWNJ4S1VO)
+[SQL](https://verify.w3schools.com/1NWNJ4S1VO) 
