@@ -7,3 +7,10 @@ I look forward to expanding my skills and knowledge in this field and building m
 # Certificates
 [C#](https://verify.w3schools.com/5YU8LG6VE) <br>
 [SQL](https://verify.w3schools.com/1NWNJ4S1VO) 
+
+# Stats
+
+| [![EavenCS](https://img.shields.io/badge/Eaven-CS-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=EavenCS&color=green) | ![Followers](https://img.shields.io/github/followers/EavenCS) | ![Stars](https://img.shields.io/github/stars/EavenCS?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EavenCS&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
