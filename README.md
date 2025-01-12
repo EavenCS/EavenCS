@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Saas<br>🌱 I’m currently learning Typescript and React<br>⚡ Fun fact, I work as a C# developer
+🔭 I’m currently working on Saas<br>🌱 I’m currently learning Javascript and HTML & CSS <br>⚡ Fun fact, I work as a C# developer
 
 
 ## 🌐 Socials:
